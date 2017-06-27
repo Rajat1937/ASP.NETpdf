@@ -1,0 +1,11 @@
+C:\Users\Simooo\Desktop\Homework\High-Quality-Code\SolidPrincipleInSoftwareDesign\Logger\bin\Debug\Logger.exe
+C:\Users\Simooo\Desktop\Homework\High-Quality-Code\SolidPrincipleInSoftwareDesign\Logger\bin\Debug\Logger.pdb
+C:\Users\Simooo\Desktop\Homework\High-Quality-Code\SolidPrincipleInSoftwareDesign\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Simooo\Desktop\Homework\High-Quality-Code\SolidPrincipleInSoftwareDesign\Logger\obj\Debug\Logger.exe
+C:\Users\Simooo\Desktop\Homework\High-Quality-Code\SolidPrincipleInSoftwareDesign\Logger\obj\Debug\Logger.pdb
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\bin\Debug\Logger.exe.config
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\obj\Debug\Logger.exe
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\obj\Debug\Logger.pdb
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\bin\Debug\Logger.exe
+D:\Zf in Action\Advanced C#\SoftUni-Homeworks-master\High-Quality-Code\Solid And Other PrincipleIs In Software Design\Logger\bin\Debug\Logger.pdb

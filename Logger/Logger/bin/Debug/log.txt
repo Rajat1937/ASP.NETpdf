@@ -1,0 +1,6 @@
+27/01/2016 06:51:23 - Info - The program was finished just now
+27/01/2016 06:51:23 - Warn - I am going to test the program now
+27/01/2016 06:51:23 - Important - File not found
+27/01/2016 06:51:30 - Info - The program was finished just now
+27/01/2016 06:51:30 - Warn - I am going to test the program now
+27/01/2016 06:51:30 - Important - File not found
